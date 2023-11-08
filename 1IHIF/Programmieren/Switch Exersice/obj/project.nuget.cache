@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "mFZE6+gvQxJ7fH1LIAcQwkqOEl27he3121oQu/fJESBsTYYh0K8uLh1YwHsvO1jITums0OvUydga2AjSRJz4uA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\Peer_Class\\Switch Exersice\\Switch Exersice.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "mFZE6+gvQxJ7fH1LIAcQwkqOEl27he3121oQu/fJESBsTYYh0K8uLh1YwHsvO1jITums0OvUydga2AjSRJz4uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\Peer_Class\\Switch Exersice\\Switch Exersice.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> a3e8a38f01faffaf1419c480246add21ba5c0a99
 }

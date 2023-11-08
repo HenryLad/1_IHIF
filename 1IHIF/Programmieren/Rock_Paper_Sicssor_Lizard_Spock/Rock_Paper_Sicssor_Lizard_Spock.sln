@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {689728F9-C3A0-446A-95B6-3BFE411B31FF}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rock_Paper_Sicssor_Lizard_Spock", "Rock_Paper_Sicssor_Lizard_Spock.csproj", "{59DBE62A-94D9-4CA1-838B-8FFFF3A621BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DBE62A-94D9-4CA1-838B-8FFFF3A621BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DBE62A-94D9-4CA1-838B-8FFFF3A621BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DBE62A-94D9-4CA1-838B-8FFFF3A621BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DBE62A-94D9-4CA1-838B-8FFFF3A621BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689728F9-C3A0-446A-95B6-3BFE411B31FF}
+	EndGlobalSection
+EndGlobal
+>>>>>>> a3e8a38f01faffaf1419c480246add21ba5c0a99
