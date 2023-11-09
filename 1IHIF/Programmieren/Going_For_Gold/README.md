@@ -1,15 +1,15 @@
 ## Going for Gold
 This C# program is designed to simulate a game scenario where a player collects various types of ore and receives gold based on a set of rules. Here's a step-by-step breakdown:
 
-    User Input:
-    The program starts by welcoming the player to the "going for gold mission" and prompts them to enter the amount of ore they currently possess.
+User Input:
+The program starts by welcoming the player to the "going for gold mission" and prompts them to enter the amount of ore they currently possess.
 
-    csharp
+```csharp
 
 Console.WriteLine("Welcome to the going for gold mission");
 Console.WriteLine("Please enter your ore number");
 int ore = int.Parse(Console.ReadLine()!);
-
+```
 The player's input, representing the quantity of ore, is stored in the variable ore.
 
 Gold Calculation:
