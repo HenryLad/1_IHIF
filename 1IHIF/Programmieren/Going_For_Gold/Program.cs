@@ -16,3 +16,5 @@ gold += ore *1;
 ore -= ore;
 
 Console.WriteLine("You now have : " + gold +"");
+
+// Path: Program.cs
