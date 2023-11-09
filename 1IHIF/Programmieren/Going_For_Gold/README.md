@@ -41,8 +41,7 @@ The calculations are performed using Math.Min to ensure that the program doesn't
 Output:
 Finally, the program prints out the total amount of gold the player has earned.
 
-```scharp
-
+```csharp
     Console.WriteLine("You now have: " + gold + "");
 ```
 
