@@ -42,7 +42,9 @@ Output:
 Finally, the program prints out the total amount of gold the player has earned.
 
 ```csharp
-    Console.WriteLine("You now have: " + gold + "");
+
+Console.WriteLine("You now have: " + gold + "");
+
 ```
 
 This line outputs a message indicating the total amount of gold the player has earned based on their input.
