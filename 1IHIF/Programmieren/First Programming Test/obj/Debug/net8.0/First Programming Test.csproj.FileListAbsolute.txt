@@ -1,0 +1,15 @@
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\bin\Debug\net8.0\First Programming Test.exe
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\bin\Debug\net8.0\First Programming Test.deps.json
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\bin\Debug\net8.0\First Programming Test.runtimeconfig.json
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\bin\Debug\net8.0\First Programming Test.dll
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\bin\Debug\net8.0\First Programming Test.pdb
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\First Programming Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\First Programming Test.AssemblyInfoInputs.cache
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\First Programming Test.AssemblyInfo.cs
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\First Programming Test.csproj.CoreCompileInputs.cache
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\First Programming Test.sourcelink.json
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\First Programming Test.dll
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\refint\First Programming Test.dll
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\First Programming Test.pdb
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\First Programming Test.genruntimeconfig.cache
+C:\Peer Klasse\1IHIF\Programmieren\First Programming Test\obj\Debug\net8.0\ref\First Programming Test.dll
